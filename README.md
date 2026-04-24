@@ -1,9 +1,7 @@
 
-<h1 align="center">Hello, I'm Rashmi</h1>
-<h3 align="center">Full-stack developer · UI/UX enthusiast · Always building & learning</h3>
+<h1>Hello, I'm Rashmi</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C7FF&width=435&lines=Full-stack+Developer;AIML+Enthusiast;Always+learning+something+new!" alt="Typing SVG" />
-</p>
+
 
 🧑‍💻 About Me
 
