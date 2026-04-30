@@ -35,7 +35,7 @@ React.js · Tailwind CSS
 Node.js · Express.js · MongoDB  
 
 **Data & Analysis:**  
-Pandas  
+Pandas, Numpy, MySql , MongoDB, Goggle Sheets, Tableau
 
 **Design & Collaboration:**  
 Figma · Git  
