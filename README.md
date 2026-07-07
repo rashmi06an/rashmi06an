@@ -5,11 +5,11 @@
 
 🧑‍💻 About Me
 
-- I'm a **second-year Computer Science student** at **Newton School of Technology**, **Rishihood University**, Sonipat.
+- I'm a **third-year Computer Science student** at **Newton School of Technology**, **Rishihood University**, Sonipat.
 - I’m a student who enjoys creating things that are not just functional, but thoughtfully designed.
 - I like working at the intersection of **logic, design, and real-world problem solving**.
 - I've built projects using **Python**, **JavaScript**, **React**, **MongoDB**, **HTML/CSS**, and I’m actively mastering **Data Structures and Algorithms**.
-- Solved **150+ problems on LeetCode**.
+- Solved **200+ problems on LeetCode**.
 - Winner at **Cognizance, IIT Roorkee**, recognized for innovative thinking and execution.
 - Actively involved in **social welfare initiatives**, worked with NGOs to introduce children to emerging technologies like **AR/VR, Metashot and RoboDog**, making tech accessible and engaging.
 - Strong interest in **consulting and product management**, with a continuous focus on learning **product thinking, tech fundamentals and structured problem-solving** to tackle real-world problems
